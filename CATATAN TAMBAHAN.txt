@@ -1,0 +1,5 @@
+Link video presentasi :
+https://youtu.be/vmEFZlQ_al0
+
+Link berkas csv, berisi data hasil eksplorasi digabung dengan hasil cluster nya:
+(data_cluster.csv) di https://drive.google.com/drive/folders/1BGqszAdrgMq5jBEeh-LsUkZURi3jVnC8?usp=sharing
